@@ -1,11 +1,11 @@
 /* Change the background of the entire visible page */
 body {
-    background-color: #FFEBF4; /* Very light pink */
+    background-color: #FDE1ED; /* Very light pink */
 }
 
 /* Style for all paragraphs */
 p {
-    color: darkpink;
+    color: rgb (100, 0);
     font-size: 16px;
     font-family: 'Times New Roman', serif;
     img {
